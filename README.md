@@ -36,8 +36,8 @@ To run TinDog locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tindog.git
-   cd tindog
+   git clone [https://github.com/your-username/tindog.git](https://github.com/shripraveen21/Tin-Dog.git)
+   cd Tin-Dog
 Open index.html in your preferred web browser.
 Usage
 Explore TinDog by clicking buttons, navigating through sections, and interacting with its features.
