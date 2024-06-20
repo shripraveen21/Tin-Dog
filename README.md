@@ -2,7 +2,7 @@
 
 Welcome to TinDog, a fun and interactive landing page for dog lovers!
 
-![TinDog Preview](./images/tindog-preview.png)
+![TinDog Preview](./images/Tindog-preview.jpeg)
 
 ## Table of Contents
 - [Introduction](#introduction)
